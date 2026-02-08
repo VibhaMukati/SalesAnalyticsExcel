@@ -5,9 +5,9 @@ This excel project was created with use of powerQuery and DAX.
 
 **Sales View**
 
-Objectives - 
+Objectives and Approach- 
 
-1. To create a Customer performance report - Here I coalated data of net sales of the company  FY 2019 to FY 2021. Additionally the percentage increase in net sales in 2021 wrt Base year 2020 was analysed.
+1. To create a Sales report - Here I coalated data of net sales of the company  FY 2019 to FY 2021. Additionally the percentage increase in net sales in 2021 wrt Base year 2020 was analysed.
 2. To identify the Gap between Market performance by comparing with Sales Target.
 
 **Finance View**
